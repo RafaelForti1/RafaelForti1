@@ -18,6 +18,7 @@ Sou orientado a resultados e colaborativo, aplicando metodologias ágeis (Scrum)
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40" alt="n8n"/>
 </p>
 🚀 Destaques
+
 🔧 Desenvolvimento de sistemas full-stack com Next.js, React.js, Node.js e PHP (Laravel).
 
 ⚡ Experiência em automação de processos internos com n8n e Microsoft Power Platform.
